@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoneyConvert</string>
+    <string name="monnaie">Monnaie</string>
+    <string-array name="money_select">
+        <item>euros</item>
+        <item>dollards</item>
+        <item>yens</item>
+        <item>yuans</item>
+        <item>pounds</item>
+    </string-array>
+</resources>
